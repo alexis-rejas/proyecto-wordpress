@@ -2,7 +2,7 @@
 subiendo mi proycetoooo
 #  AAPHAL - Despliegue de WordPress en AWS EC2
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 Despliegue de un servidor web en Amazon Web Services (EC2) con WordPress para la **Asociación de Agricultores de Palta en Huamanpali - Alto Larán (AAPHAL)**.
 
 ##  Datos del Estudiante
